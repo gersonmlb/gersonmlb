@@ -1,14 +1,9 @@
-### Hi there!! 👋
-
-I'm <strong> Gerson Malca </strong>
-</br>
-I'm from 🇵🇪 Peru
-</br>
-I graduated from university as System engineering
-</br>
-Self-taught about new tecnology and I'm always learning about new things
-</br>
+## I'm <strong> Gerson Malca </strong>👋
 I currently work as <strong> Full Stack Developer </strong>
+
+[![Twitter: gerson_159](https://img.shields.io/twitter/follow/gerson_159?label=Follow%20%40gerson_159&style=social)](https://twitter.com/gerson_159)
+[![GitHub gersonmlb](https://img.shields.io/github/followers/gersonmlb?style=social)](https://github.com/gersonmlb)
+[![LinkedIn: Gerson Malca](https://img.shields.io/badge/gersonmlb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerson-malca-bazan-071b5213b/)](https://www.linkedin.com/in/gerson-malca-bazan-071b5213b/)
 
 ## Working
 ### 🔭I’m working with
@@ -36,13 +31,26 @@ I currently work as <strong> Full Stack Developer </strong>
   - Adobe Ilustrator
   - Figma
   - Adobe XD
-   
+
+## Some favorites
+
+#### Most used
+<a href="https://github.com/gersonmlb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonmlb&theme=light&hide_langs_below=1&exclude_repo=flutter_snake_game_page" />
+</a>
+
+#### Github Stats
+
+[![Gerson' Github Stats](https://github-readme-stats.vercel.app/api?username=gersonmlb&count_private=true&theme=default&show_icons=true)](https://github.com/gersonmlb)
+
+
 ## About me
 </br>
 I'm from 🇵🇪 Peru
 </br>
 I'm graduated in system engineer
 </br>
+Self-taught about new tecnology and I'm always learning about new things
 
 ### 📯**Hobbies :** 
   - Weight Training
