@@ -1,18 +1,34 @@
-### Hi there 👋
+### Hi there!! 👋
 
-Self taught full stack web developer from Lithuania, currently living in Denmark.</br>
+Self-taught full stack web developer from Peru
+</br>
+
+### 🔭 I’m working with
+| 🌎 Web        | 📱 Mobile     | 🔑 Backend    |
+|     :---:     |      :---:    |      :---:    |
+| React         | React Native  |   NodeJS      |
+| Vue           |               |   Ruby        |
+| JavaScript    |               |               |
+| CSS & SCSS    |               |               |
+<br>
 
 ### 📖 knowledge In
 
 | 🌎 Stack Web  | 📱 Stack Mobile | Stack Backend |
 |     :---:     |      :---:    |      :---:    |
-| React         | React Native  |   NodeJS            |
-| Angular       | Flutter       |               |
+| React         | React Native  |   NodeJS      |
+| Vue           | Flutter       |   Ruby        |
+| Angular       |               |               |
 | JavaScript    |               |               |
 | CSS & SCSS    |               |               |
 
   
-</br> **Tools :** Adobe Photoshop   
+### 💬**Tools :**
+  - Adobe Photoshop
+  - Adobe Ilustrator
+  - Figma
+  - Adobe XD
+   
 ### 📯**Hobbies :** 
   - Weight Training
   - Language Learning (English & Portuguese)
