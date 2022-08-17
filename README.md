@@ -1,26 +1,32 @@
 ### Hi there!! 👋
 
-Self-taught full stack web developer from Peru
+I'm <strong> Gerson Malca </strong> and fu
 </br>
-
-### 🔭 I’m working with
-| 🌎 Web        | 📱 Mobile     | 🔑 Backend    |
-|     :---:     |      :---:    |      :---:    |
-| React         | React Native  |   NodeJS      |
-| Vue           |               |   Ruby        |
-| JavaScript    |               |               |
-| CSS & SCSS    |               |               |
+I'm from 🇵🇪 Peru
+</br>
+I graduated from university as System engineering
+</br>
+Self-taught about new tecnology and I'm always learning about new things
+</br>
+I currently work as <strong> Full Stack Developer </strong>
+### 🔭I’m working with
+| 🌎 Web        | 📱 Mobile     | 🔑 Backend    | 🖥 DB          | ☁️ Cloud |
+|     :---:     |      :---:    |      :---:    |    :---:      | :---:   |
+| React         | React Native  |   NodeJS      |  PostgreSQL   |    AWS  |    
+| Vue           |               |   Ruby & RoR  |    MySQL      | Digital Ocean|
+| JavaScript    |               |               |               | Google Cloud|
+| CSS & SCSS    |               |               |               | |
 <br>
 
 ### 📖 knowledge In
 
-| 🌎 Stack Web  | 📱 Stack Mobile | Stack Backend |
-|     :---:     |      :---:    |      :---:    |
-| React         | React Native  |   NodeJS      |
-| Vue           | Flutter       |   Ruby        |
-| Angular       |               |               |
-| JavaScript    |               |               |
-| CSS & SCSS    |               |               |
+| 🌎 Stack Web  | 📱 Stack Mobile | 🔑 Stack Backend | 🖥 Stack Server       |  🖥 Stack DB |
+|     :---:     |      :---:      |      :---:       |      :---:           | :---:|
+| React         | React Native    |   NodeJS         |  GNU/Linux           |  PostgreSQL |
+| Vue           | Flutter         |   Ruby           |  Ubuntu Server       |  MySQL      |
+| Angular       | Android         |   Python         |  Oracle Server       |  SQL        |
+| JavaScript    |                 |                  |                      |  MongoDB    |
+| CSS & SCSS    |                 |                  |                      |  Firebase   |
 
   
 ### 💬**Tools :**
