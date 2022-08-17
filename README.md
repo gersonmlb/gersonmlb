@@ -5,6 +5,11 @@ I currently work as <strong> Full Stack Developer </strong>
 [![GitHub gersonmlb](https://img.shields.io/github/followers/gersonmlb?style=social)](https://github.com/gersonmlb)
 [![LinkedIn: Gerson Malca](https://img.shields.io/badge/gersonmlb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerson-malca-bazan-071b5213b/)](https://www.linkedin.com/in/gerson-malca-bazan-071b5213b/)
 
+
+Briefcase any freelance work? do reach,[✉️](mailto:gerson_159@outlook.es)
+
+💬 ask me about anything, i am happy to help.
+
 ## Working
 ### 🔭I’m working with
 | 🌎 Web        | 📱 Mobile     | 🔑 Backend    | 🖥 DB          | ☁️ Cloud |
