@@ -1,6 +1,6 @@
 ### Hi there!! 👋
 
-I'm <strong> Gerson Malca </strong> and fu
+I'm <strong> Gerson Malca </strong>
 </br>
 I'm from 🇵🇪 Peru
 </br>
