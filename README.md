@@ -18,7 +18,7 @@ I currently work as <strong> Full Stack Developer </strong>
 | CSS & SCSS    |               |               |               | |
 <br>
 
-### 📖 knowledge In development technologies
+### 📖 Knowledge in Development technologies
 
 | 🌎 Stack Web  | 📱 Stack Mobile | 🔑 Stack Backend | 🖥 Stack Server       |  🖥 Stack DB |
 |     :---:     |      :---:      |      :---:       |      :---:           | :---:|
