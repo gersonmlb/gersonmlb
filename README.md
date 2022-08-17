@@ -9,6 +9,8 @@ I graduated from university as System engineering
 Self-taught about new tecnology and I'm always learning about new things
 </br>
 I currently work as <strong> Full Stack Developer </strong>
+
+## Working
 ### 🔭I’m working with
 | 🌎 Web        | 📱 Mobile     | 🔑 Backend    | 🖥 DB          | ☁️ Cloud |
 |     :---:     |      :---:    |      :---:    |    :---:      | :---:   |
@@ -35,6 +37,13 @@ I currently work as <strong> Full Stack Developer </strong>
   - Figma
   - Adobe XD
    
+## About me
+</br>
+I'm from 🇵🇪 Peru
+</br>
+I'm graduated in system engineer
+</br>
+
 ### 📯**Hobbies :** 
   - Weight Training
   - Language Learning (English & Portuguese)
@@ -42,22 +51,3 @@ I currently work as <strong> Full Stack Developer </strong>
   - Analysis Of Data
   
   
-<!--
-
-### Major courses taken
-Complete Web Development Bootcamp by Angela Yu
-</br>MERN eCommerce From Scratch by Brad Traversy
-</br>JavaScript (OOP, FP) The Hard Parts by Will Sentance
-**gersonmlb/gersonmlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
