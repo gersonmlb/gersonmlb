@@ -21,12 +21,12 @@ I currently work as <strong> Full Stack Developer </strong>
 ### 📖 Knowledge in Development technologies
 
 | 🌎 Stack Web  | 📱 Stack Mobile | 🔑 Stack Backend | 🖥 Stack Server       |  🖥 Stack DB | ☁️ Stack Cloud |
-|     :---:     |      :---:      |      :---:       |      :---:           | :---:|      |    :---:       |
+|     :---:     |      :---:      |      :---:       |      :---:           | :---:       |    :---:       |
 | React         | React Native    |   NodeJS         |  GNU/Linux           |  PostgreSQL | AWS            |
 | Vue           | Flutter         |   Ruby           |  Ubuntu Server       |  MySQL      | Digital Ocean  |
 | Angular       | Android         |   Python         |  Oracle Server       |  SQL        | Heroku         |
 | JavaScript    |                 |                  |                      |  MongoDB    | Google Cloud   |
-| CSS & SCSS    |                 |                  |                      |  Firebase   | |
+| CSS & SCSS    |                 |                  |                      |  Firebase   |             |
 
   
 ### 💬**Tools :**
