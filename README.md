@@ -15,18 +15,18 @@ I currently work as <strong> Full Stack Developer </strong>
 | React         | React Native  |   NodeJS      |  PostgreSQL   |    AWS  |    
 | Vue           |               |   Ruby & RoR  |    MySQL      | Digital Ocean|
 | JavaScript    |               |               |               | Google Cloud|
-| CSS & SCSS    |               |               |               | |
+| CSS & SCSS    |               |               |               | Heroku      |
 <br>
 
 ### 📖 Knowledge in Development technologies
 
-| 🌎 Stack Web  | 📱 Stack Mobile | 🔑 Stack Backend | 🖥 Stack Server       |  🖥 Stack DB |
-|     :---:     |      :---:      |      :---:       |      :---:           | :---:|
-| React         | React Native    |   NodeJS         |  GNU/Linux           |  PostgreSQL |
-| Vue           | Flutter         |   Ruby           |  Ubuntu Server       |  MySQL      |
-| Angular       | Android         |   Python         |  Oracle Server       |  SQL        |
-| JavaScript    |                 |                  |                      |  MongoDB    |
-| CSS & SCSS    |                 |                  |                      |  Firebase   |
+| 🌎 Stack Web  | 📱 Stack Mobile | 🔑 Stack Backend | 🖥 Stack Server       |  🖥 Stack DB | ☁️ Stack Cloud |
+|     :---:     |      :---:      |      :---:       |      :---:           | :---:|      |    :---:       |
+| React         | React Native    |   NodeJS         |  GNU/Linux           |  PostgreSQL | AWS            |
+| Vue           | Flutter         |   Ruby           |  Ubuntu Server       |  MySQL      | Digital Ocean  |
+| Angular       | Android         |   Python         |  Oracle Server       |  SQL        | Heroku         |
+| JavaScript    |                 |                  |                      |  MongoDB    | Google Cloud   |
+| CSS & SCSS    |                 |                  |                      |  Firebase   | |
 
   
 ### 💬**Tools :**
