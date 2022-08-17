@@ -15,8 +15,9 @@ Self taught full stack web developer from Lithuania, currently living in Denmark
 </br> **Tools :** Adobe Photoshop   
 ### 📯**Hobbies :** 
   - Weight Training
-  - Language Learning (Japanese and Portuguese)
+  - Language Learning (English & Portuguese)
   - Video Edition
+  - Analysis Of Data
   
   
 <!--
