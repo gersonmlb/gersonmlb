@@ -8,17 +8,18 @@ I currently work as <strong> Full Stack Developer </strong>
 
 Briefcase any freelance work? do reach,[✉️](mailto:gerson_159@outlook.es)
 
-💬 ask me about anything, i am happy to help.
+💬 ask me about anything, I'm happy to help.
 
 ## Working
 ### 🔭I’m working with
-| 🌎 Web        | 📱 Mobile     | 🔑 Backend    | 🖥 DB          | ☁️ Cloud |
-|     :---:     |      :---:    |      :---:    |    :---:      | :---:   |
-| React         | React Native  |   NodeJS      |  PostgreSQL   |    AWS  |    
-| Vue           |               |   Ruby & RoR  |    MySQL      | Digital Ocean|
-| JavaScript    |               |               |               | Google Cloud|
-| CSS & SCSS    |               |               |               | Heroku      |
+| 🌎 Web        | 📱 Mobile     | 🔑 Backend    | 🖥 DB          | ☁️ Cloud        |
+|     :---:     |      :---:    |      :---:    |    :---:      |     :---:      |
+| React         | React Native  |   NodeJS      |  PostgreSQL   |    AWS         |    
+| Vue           |               |   Ruby & RoR  |    MySQL      | Digital Ocean  |
+| JavaScript    |               |               |               | Google Cloud   |
+| CSS & SCSS    |               |               |               | Heroku         |
 <br>
+
 
 ### 📖 Knowledge in Development technologies
 
