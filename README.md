@@ -38,18 +38,6 @@ Briefcase any freelance work? do reach,[✉️](mailto:gerson_159@outlook.es)
   - Figma
   - Adobe XD
 
-## Some favorites
-
-#### Most used
-<a href="https://github.com/gersonmlb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonmlb&theme=light&hide_langs_below=1&exclude_repo=flutter_snake_game_page" />
-</a>
-
-#### Github Stats
-
-[![Gerson' Github Stats](https://github-readme-stats.vercel.app/api?username=gersonmlb&count_private=true&theme=default&show_icons=true)](https://github.com/gersonmlb)
-
-
 ## About me
 </br>
 I'm from 🇵🇪 Peru
